@@ -1,0 +1,26 @@
+{
+  "name": "user-identity-chain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarvitSadhwani/user-identity-chain.git"
+  },
+  "author": "Garvit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarvitSadhwani/user-identity-chain/issues"
+  },
+  "homepage": "https://github.com/GarvitSadhwani/user-identity-chain#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
